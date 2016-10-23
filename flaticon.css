@@ -1,0 +1,48 @@
+.flaticon-about:before {
+	content: "\e001";
+}
+.flaticon-close:before {
+	content: "\e002";
+}
+.flaticon-codepen:before {
+	content: "\e003";
+}
+.flaticon-contact:before {
+	content: "\e004";
+}
+.flaticon-css-file:before {
+	content: "\e005";
+}
+.flaticon-css:before {
+	content: "\e006";
+}
+.flaticon-facebook:before {
+	content: "\e007";
+}
+.flaticon-fcc:before {
+	content: "\e008";
+}
+.flaticon-github:before {
+	content: "\e009";
+}
+.flaticon-html-file:before {
+	content: "\e00a";
+}
+.flaticon-html:before {
+	content: "\e00b";
+}
+.flaticon-javascript:before {
+	content: "\e00c";
+}
+.flaticon-js-file:before {
+	content: "\e00d";
+}
+.flaticon-linkedin:before {
+	content: "\e00e";
+}
+.flaticon-twitter:before {
+	content: "\e00f";
+}
+.flaticon-works:before {
+	content: "\e010";
+}
